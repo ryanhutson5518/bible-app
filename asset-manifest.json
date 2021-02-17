@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bible-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/bible-app/static/js/main.7d88fb3a.chunk.js",
+    "main.js.map": "/bible-app/static/js/main.7d88fb3a.chunk.js.map",
+    "runtime-main.js": "/bible-app/static/js/runtime-main.c185d142.js",
+    "runtime-main.js.map": "/bible-app/static/js/runtime-main.c185d142.js.map",
+    "static/js/2.19b768c3.chunk.js": "/bible-app/static/js/2.19b768c3.chunk.js",
+    "static/js/2.19b768c3.chunk.js.map": "/bible-app/static/js/2.19b768c3.chunk.js.map",
+    "static/js/3.5ce30f4b.chunk.js": "/bible-app/static/js/3.5ce30f4b.chunk.js",
+    "static/js/3.5ce30f4b.chunk.js.map": "/bible-app/static/js/3.5ce30f4b.chunk.js.map",
+    "index.html": "/bible-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/bible-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.19b768c3.chunk.js.LICENSE.txt": "/bible-app/static/js/2.19b768c3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bible-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c185d142.js",
+    "static/js/2.19b768c3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7d88fb3a.chunk.js"
+  ]
+}
