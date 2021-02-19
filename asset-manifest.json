@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bible-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/bible-app/static/js/main.f66a47a6.chunk.js",
-    "main.js.map": "/bible-app/static/js/main.f66a47a6.chunk.js.map",
+    "main.js": "/bible-app/static/js/main.bdb9bce7.chunk.js",
+    "main.js.map": "/bible-app/static/js/main.bdb9bce7.chunk.js.map",
     "runtime-main.js": "/bible-app/static/js/runtime-main.a3e8044b.js",
     "runtime-main.js.map": "/bible-app/static/js/runtime-main.a3e8044b.js.map",
     "static/js/2.b618f9e3.chunk.js": "/bible-app/static/js/2.b618f9e3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a3e8044b.js",
     "static/js/2.b618f9e3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f66a47a6.chunk.js"
+    "static/js/main.bdb9bce7.chunk.js"
   ]
 }
